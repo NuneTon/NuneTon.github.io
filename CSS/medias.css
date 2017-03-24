@@ -33,9 +33,3 @@
         font-size: 1.1em !important;
     }
 }
-
-@media screen and (max-width: 300px) {
-    .about {
-        height: 120vh !important;
-    }
-}

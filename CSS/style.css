@@ -5,6 +5,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     color: #283851;
+    min-width: 330px;
 }
 
 .header {
